@@ -31,5 +31,4 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
-
 });
